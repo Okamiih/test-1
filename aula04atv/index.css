@@ -1,0 +1,53 @@
+body{ background-color: 
+    #5a99f6;
+font-family: 'Times New Roman', Times, serif;
+font-size: small;
+}
+header{
+background-image:url(https://media.licdn.com/dms/image/D4D16AQH2a5jL0fZi1A/profile-displaybackgroundimage-shrink_350_1400/0/1713193535964?e=1720656000&v=beta&t=lp6iqIkciypD2Qt7D5jU6zwI95FO8DSRVSGIEbWF-m0) ;
+}
+main{ background-color: aliceblue;
+    width: 87%;
+    height: 100%;
+margin: 0;
+text-align: justify;
+font-size: large;
+
+
+
+}
+.lef{
+    left: 0;
+    text-align: left;
+}
+aside {width: 181px;
+    height: 100%;
+background-color:  #f4f9ff7e;
+    position: fixed;
+    right: 0;
+    top: 0;
+    color: black;
+    display: inline;
+margin: 0;
+font-size: medium;
+}
+h1{
+    background-color: rgba(53, 61, 61, 0.705);
+    width: 50%;
+    color: aliceblue;
+}
+nav{
+    background-color: rgba(59, 51, 170, 0.418);
+    width: 100%;
+    
+}
+footer{
+    text-align: center;
+}
+.foto{
+    border-radius: 50%;
+    width: 172px;
+}
+.roda{
+    text-align: center;
+}
